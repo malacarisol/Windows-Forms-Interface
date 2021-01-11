@@ -1,0 +1,124 @@
+C:\Users\Sol\source\repos\TP1 Malacari Zgaib\TP1 Malacari Zgaib\bin\Debug\TP1 Malacari Zgaib.exe.config
+C:\Users\Sol\source\repos\TP1 Malacari Zgaib\TP1 Malacari Zgaib\bin\Debug\TP1 Malacari Zgaib.exe
+C:\Users\Sol\source\repos\TP1 Malacari Zgaib\TP1 Malacari Zgaib\bin\Debug\TP1 Malacari Zgaib.pdb
+C:\Users\Sol\source\repos\TP1 Malacari Zgaib\TP1 Malacari Zgaib\obj\Debug\TP1 Malacari Zgaib.csprojAssemblyReference.cache
+C:\Users\Sol\source\repos\TP1 Malacari Zgaib\TP1 Malacari Zgaib\obj\Debug\TP1_Malacari_Zgaib.Properties.Resources.resources
+C:\Users\Sol\source\repos\TP1 Malacari Zgaib\TP1 Malacari Zgaib\obj\Debug\TP1 Malacari Zgaib.csproj.GenerateResource.cache
+C:\Users\Sol\source\repos\TP1 Malacari Zgaib\TP1 Malacari Zgaib\obj\Debug\TP1 Malacari Zgaib.csproj.CoreCompileInputs.cache
+C:\Users\Sol\source\repos\TP1 Malacari Zgaib\TP1 Malacari Zgaib\obj\Debug\TP1 Malacari Zgaib.exe
+C:\Users\Sol\source\repos\TP1 Malacari Zgaib\TP1 Malacari Zgaib\obj\Debug\TP1 Malacari Zgaib.pdb
+C:\Users\Sol\source\repos\TP1 Malacari Zgaib\TP1 Malacari Zgaib\obj\Debug\TP1_Malacari_Zgaib.FormPrincipal.resources
+C:\Users\Sol\source\repos\TP1 Malacari Zgaib\TP1 Malacari Zgaib\obj\Debug\TP1_Malacari_Zgaib.EjercicioUno.resources
+C:\Users\Sol\Desktop\OJO tp malacariZgaibCopy\TP1 Malacari Zgaib\bin\Debug\TP1 Malacari Zgaib.exe.config
+C:\Users\Sol\Desktop\OJO tp malacariZgaibCopy\TP1 Malacari Zgaib\bin\Debug\TP1 Malacari Zgaib.exe
+C:\Users\Sol\Desktop\OJO tp malacariZgaibCopy\TP1 Malacari Zgaib\bin\Debug\TP1 Malacari Zgaib.pdb
+C:\Users\Sol\Desktop\OJO tp malacariZgaibCopy\TP1 Malacari Zgaib\obj\Debug\TP1 Malacari Zgaib.csprojAssemblyReference.cache
+C:\Users\Sol\Desktop\OJO tp malacariZgaibCopy\TP1 Malacari Zgaib\obj\Debug\TP1_Malacari_Zgaib.Ejercicio2.resources
+C:\Users\Sol\Desktop\OJO tp malacariZgaibCopy\TP1 Malacari Zgaib\obj\Debug\TP1_Malacari_Zgaib.EjercicioUno.resources
+C:\Users\Sol\Desktop\OJO tp malacariZgaibCopy\TP1 Malacari Zgaib\obj\Debug\TP1_Malacari_Zgaib.FormPrincipal.resources
+C:\Users\Sol\Desktop\OJO tp malacariZgaibCopy\TP1 Malacari Zgaib\obj\Debug\TP1_Malacari_Zgaib.Properties.Resources.resources
+C:\Users\Sol\Desktop\OJO tp malacariZgaibCopy\TP1 Malacari Zgaib\obj\Debug\TP1 Malacari Zgaib.csproj.GenerateResource.cache
+C:\Users\Sol\Desktop\OJO tp malacariZgaibCopy\TP1 Malacari Zgaib\obj\Debug\TP1 Malacari Zgaib.csproj.CoreCompileInputs.cache
+C:\Users\Sol\Desktop\OJO tp malacariZgaibCopy\TP1 Malacari Zgaib\obj\Debug\TP1 Malacari Zgaib.exe
+C:\Users\Sol\Desktop\OJO tp malacariZgaibCopy\TP1 Malacari Zgaib\obj\Debug\TP1 Malacari Zgaib.pdb
+C:\Users\Sol\Desktop\OJO tp malacariZgaibCopy\TP1 Malacari Zgaib\bin\Debug\AutomaticGraphLayout.dll
+C:\Users\Sol\Desktop\OJO tp malacariZgaibCopy\TP1 Malacari Zgaib\bin\Debug\AutomaticGraphLayout.Drawing.dll
+C:\Users\Sol\Desktop\OJO tp malacariZgaibCopy\TP1 Malacari Zgaib\bin\Debug\Microsoft.Msagl.GraphViewerGdi.dll
+C:\Users\Sol\Desktop\OJO tp malacariZgaibCopy\TP1 Malacari Zgaib\bin\Debug\Microsoft.Msagl.WpfGraphControl.dll
+C:\Users\Sol\Desktop\OJO tp malacariZgaibCopy\TP1 Malacari Zgaib\obj\Debug\TP1_Malacari_Zgaib.Ejercicio3.resources
+C:\Users\Sol\Desktop\OJO tp malacariZgaibCopy\TP1 Malacari Zgaib\obj\Debug\TP1 Malacari Zgaib.csproj.CopyComplete
+C:\Users\Sol\Documents\Copia TP Labo 2\TP1 Malacari Zgaib\bin\Debug\TP1 Malacari Zgaib.exe.config
+C:\Users\Sol\Documents\Copia TP Labo 2\TP1 Malacari Zgaib\bin\Debug\TP1 Malacari Zgaib.exe
+C:\Users\Sol\Documents\Copia TP Labo 2\TP1 Malacari Zgaib\bin\Debug\TP1 Malacari Zgaib.pdb
+C:\Users\Sol\Documents\Copia TP Labo 2\TP1 Malacari Zgaib\bin\Debug\AutomaticGraphLayout.dll
+C:\Users\Sol\Documents\Copia TP Labo 2\TP1 Malacari Zgaib\bin\Debug\AutomaticGraphLayout.Drawing.dll
+C:\Users\Sol\Documents\Copia TP Labo 2\TP1 Malacari Zgaib\bin\Debug\Microsoft.Msagl.GraphViewerGdi.dll
+C:\Users\Sol\Documents\Copia TP Labo 2\TP1 Malacari Zgaib\bin\Debug\Microsoft.Msagl.WpfGraphControl.dll
+C:\Users\Sol\Documents\Copia TP Labo 2\TP1 Malacari Zgaib\obj\Debug\TP1 Malacari Zgaib.csprojAssemblyReference.cache
+C:\Users\Sol\Documents\Copia TP Labo 2\TP1 Malacari Zgaib\obj\Debug\TP1_Malacari_Zgaib.Ejercicio2.resources
+C:\Users\Sol\Documents\Copia TP Labo 2\TP1 Malacari Zgaib\obj\Debug\TP1_Malacari_Zgaib.Ejercicio3.resources
+C:\Users\Sol\Documents\Copia TP Labo 2\TP1 Malacari Zgaib\obj\Debug\TP1_Malacari_Zgaib.EjercicioUno.resources
+C:\Users\Sol\Documents\Copia TP Labo 2\TP1 Malacari Zgaib\obj\Debug\TP1_Malacari_Zgaib.FormPrincipal.resources
+C:\Users\Sol\Documents\Copia TP Labo 2\TP1 Malacari Zgaib\obj\Debug\TP1_Malacari_Zgaib.Properties.Resources.resources
+C:\Users\Sol\Documents\Copia TP Labo 2\TP1 Malacari Zgaib\obj\Debug\TP1 Malacari Zgaib.csproj.GenerateResource.cache
+C:\Users\Sol\Documents\Copia TP Labo 2\TP1 Malacari Zgaib\obj\Debug\TP1 Malacari Zgaib.csproj.CoreCompileInputs.cache
+C:\Users\Sol\Documents\Copia TP Labo 2\TP1 Malacari Zgaib\obj\Debug\TP1 Malacari Zgaib.csproj.CopyComplete
+C:\Users\Sol\Documents\Copia TP Labo 2\TP1 Malacari Zgaib\obj\Debug\TP1 Malacari Zgaib.exe
+C:\Users\Sol\Documents\Copia TP Labo 2\TP1 Malacari Zgaib\obj\Debug\TP1 Malacari Zgaib.pdb
+C:\Users\Sol\Documents\Copia TP Labo 2\TP1 Malacari Zgaib\obj\Debug\TP1_Malacari_Zgaib.Ejercicio4.resources
+C:\Users\EXO\Downloads\Copia TP Labo 2\TP1 Malacari Zgaib\bin\Debug\TP1 Malacari Zgaib.exe.config
+C:\Users\EXO\Downloads\Copia TP Labo 2\TP1 Malacari Zgaib\bin\Debug\TP1 Malacari Zgaib.exe
+C:\Users\EXO\Downloads\Copia TP Labo 2\TP1 Malacari Zgaib\bin\Debug\TP1 Malacari Zgaib.pdb
+C:\Users\EXO\Downloads\Copia TP Labo 2\TP1 Malacari Zgaib\bin\Debug\AutomaticGraphLayout.dll
+C:\Users\EXO\Downloads\Copia TP Labo 2\TP1 Malacari Zgaib\bin\Debug\AutomaticGraphLayout.Drawing.dll
+C:\Users\EXO\Downloads\Copia TP Labo 2\TP1 Malacari Zgaib\bin\Debug\Microsoft.Msagl.GraphViewerGdi.dll
+C:\Users\EXO\Downloads\Copia TP Labo 2\TP1 Malacari Zgaib\bin\Debug\Microsoft.Msagl.WpfGraphControl.dll
+C:\Users\EXO\Downloads\Copia TP Labo 2\TP1 Malacari Zgaib\obj\Debug\TP1 Malacari Zgaib.csprojAssemblyReference.cache
+C:\Users\EXO\Downloads\Copia TP Labo 2\TP1 Malacari Zgaib\obj\Debug\TP1_Malacari_Zgaib.Ejercicio2.resources
+C:\Users\EXO\Downloads\Copia TP Labo 2\TP1 Malacari Zgaib\obj\Debug\TP1_Malacari_Zgaib.Ejercicio3.resources
+C:\Users\EXO\Downloads\Copia TP Labo 2\TP1 Malacari Zgaib\obj\Debug\TP1_Malacari_Zgaib.Ejercicio4.resources
+C:\Users\EXO\Downloads\Copia TP Labo 2\TP1 Malacari Zgaib\obj\Debug\TP1_Malacari_Zgaib.EjercicioUno.resources
+C:\Users\EXO\Downloads\Copia TP Labo 2\TP1 Malacari Zgaib\obj\Debug\TP1_Malacari_Zgaib.FormPrincipal.resources
+C:\Users\EXO\Downloads\Copia TP Labo 2\TP1 Malacari Zgaib\obj\Debug\TP1_Malacari_Zgaib.Properties.Resources.resources
+C:\Users\EXO\Downloads\Copia TP Labo 2\TP1 Malacari Zgaib\obj\Debug\TP1 Malacari Zgaib.csproj.GenerateResource.cache
+C:\Users\EXO\Downloads\Copia TP Labo 2\TP1 Malacari Zgaib\obj\Debug\TP1 Malacari Zgaib.csproj.CoreCompileInputs.cache
+C:\Users\EXO\Downloads\Copia TP Labo 2\TP1 Malacari Zgaib\obj\Debug\TP1 Malacari Zgaib.csproj.CopyComplete
+C:\Users\EXO\Downloads\Copia TP Labo 2\TP1 Malacari Zgaib\obj\Debug\TP1 Malacari Zgaib.exe
+C:\Users\EXO\Downloads\Copia TP Labo 2\TP1 Malacari Zgaib\obj\Debug\TP1 Malacari Zgaib.pdb
+C:\Users\Sol\Documents\Programacion\TP1 Malacari Zgaib\bin\Debug\TP1 Malacari Zgaib.exe.config
+C:\Users\Sol\Documents\Programacion\TP1 Malacari Zgaib\bin\Debug\TP1 Malacari Zgaib.exe
+C:\Users\Sol\Documents\Programacion\TP1 Malacari Zgaib\bin\Debug\TP1 Malacari Zgaib.pdb
+C:\Users\Sol\Documents\Programacion\TP1 Malacari Zgaib\bin\Debug\AutomaticGraphLayout.dll
+C:\Users\Sol\Documents\Programacion\TP1 Malacari Zgaib\bin\Debug\AutomaticGraphLayout.Drawing.dll
+C:\Users\Sol\Documents\Programacion\TP1 Malacari Zgaib\bin\Debug\Microsoft.Msagl.GraphViewerGdi.dll
+C:\Users\Sol\Documents\Programacion\TP1 Malacari Zgaib\bin\Debug\Microsoft.Msagl.WpfGraphControl.dll
+C:\Users\Sol\Documents\Programacion\TP1 Malacari Zgaib\obj\Debug\TP1 Malacari Zgaib.csprojAssemblyReference.cache
+C:\Users\Sol\Documents\Programacion\TP1 Malacari Zgaib\obj\Debug\TP1_Malacari_Zgaib.Ejercicio2.resources
+C:\Users\Sol\Documents\Programacion\TP1 Malacari Zgaib\obj\Debug\TP1_Malacari_Zgaib.Ejercicio3.resources
+C:\Users\Sol\Documents\Programacion\TP1 Malacari Zgaib\obj\Debug\TP1_Malacari_Zgaib.Ejercicio4.resources
+C:\Users\Sol\Documents\Programacion\TP1 Malacari Zgaib\obj\Debug\TP1_Malacari_Zgaib.EjercicioUno.resources
+C:\Users\Sol\Documents\Programacion\TP1 Malacari Zgaib\obj\Debug\TP1_Malacari_Zgaib.FormPrincipal.resources
+C:\Users\Sol\Documents\Programacion\TP1 Malacari Zgaib\obj\Debug\TP1_Malacari_Zgaib.Properties.Resources.resources
+C:\Users\Sol\Documents\Programacion\TP1 Malacari Zgaib\obj\Debug\TP1 Malacari Zgaib.csproj.GenerateResource.cache
+C:\Users\Sol\Documents\Programacion\TP1 Malacari Zgaib\obj\Debug\TP1 Malacari Zgaib.csproj.CoreCompileInputs.cache
+C:\Users\Sol\Documents\Programacion\TP1 Malacari Zgaib\obj\Debug\TP1 Malacari Zgaib.csproj.CopyComplete
+C:\Users\Sol\Documents\Programacion\TP1 Malacari Zgaib\obj\Debug\TP1 Malacari Zgaib.exe
+C:\Users\Sol\Documents\Programacion\TP1 Malacari Zgaib\obj\Debug\TP1 Malacari Zgaib.pdb
+C:\Users\EXO\Downloads\Programacion\TP1 Malacari Zgaib\bin\Debug\TP1 Malacari Zgaib.exe.config
+C:\Users\EXO\Downloads\Programacion\TP1 Malacari Zgaib\bin\Debug\TP1 Malacari Zgaib.exe
+C:\Users\EXO\Downloads\Programacion\TP1 Malacari Zgaib\bin\Debug\TP1 Malacari Zgaib.pdb
+C:\Users\EXO\Downloads\Programacion\TP1 Malacari Zgaib\bin\Debug\AutomaticGraphLayout.dll
+C:\Users\EXO\Downloads\Programacion\TP1 Malacari Zgaib\bin\Debug\AutomaticGraphLayout.Drawing.dll
+C:\Users\EXO\Downloads\Programacion\TP1 Malacari Zgaib\bin\Debug\Microsoft.Msagl.GraphViewerGdi.dll
+C:\Users\EXO\Downloads\Programacion\TP1 Malacari Zgaib\bin\Debug\Microsoft.Msagl.WpfGraphControl.dll
+C:\Users\EXO\Downloads\Programacion\TP1 Malacari Zgaib\obj\Debug\TP1 Malacari Zgaib.csprojAssemblyReference.cache
+C:\Users\EXO\Downloads\Programacion\TP1 Malacari Zgaib\obj\Debug\TP1_Malacari_Zgaib.Ejercicio2.resources
+C:\Users\EXO\Downloads\Programacion\TP1 Malacari Zgaib\obj\Debug\TP1_Malacari_Zgaib.Ejercicio3.resources
+C:\Users\EXO\Downloads\Programacion\TP1 Malacari Zgaib\obj\Debug\TP1_Malacari_Zgaib.Ejercicio4.resources
+C:\Users\EXO\Downloads\Programacion\TP1 Malacari Zgaib\obj\Debug\TP1_Malacari_Zgaib.EjercicioUno.resources
+C:\Users\EXO\Downloads\Programacion\TP1 Malacari Zgaib\obj\Debug\TP1_Malacari_Zgaib.FormPrincipal.resources
+C:\Users\EXO\Downloads\Programacion\TP1 Malacari Zgaib\obj\Debug\TP1_Malacari_Zgaib.Properties.Resources.resources
+C:\Users\EXO\Downloads\Programacion\TP1 Malacari Zgaib\obj\Debug\TP1 Malacari Zgaib.csproj.GenerateResource.cache
+C:\Users\EXO\Downloads\Programacion\TP1 Malacari Zgaib\obj\Debug\TP1 Malacari Zgaib.csproj.CoreCompileInputs.cache
+C:\Users\EXO\Downloads\Programacion\TP1 Malacari Zgaib\obj\Debug\TP1 Malacari Zgaib.csproj.CopyComplete
+C:\Users\EXO\Downloads\Programacion\TP1 Malacari Zgaib\obj\Debug\TP1 Malacari Zgaib.exe
+C:\Users\EXO\Downloads\Programacion\TP1 Malacari Zgaib\obj\Debug\TP1 Malacari Zgaib.pdb
+C:\Users\Sol\Documents\TP Malacari Zgaib entrega\TP1 Malacari Zgaib\bin\Debug\TP1 Malacari Zgaib.exe.config
+C:\Users\Sol\Documents\TP Malacari Zgaib entrega\TP1 Malacari Zgaib\bin\Debug\TP1 Malacari Zgaib.exe
+C:\Users\Sol\Documents\TP Malacari Zgaib entrega\TP1 Malacari Zgaib\bin\Debug\TP1 Malacari Zgaib.pdb
+C:\Users\Sol\Documents\TP Malacari Zgaib entrega\TP1 Malacari Zgaib\bin\Debug\AutomaticGraphLayout.dll
+C:\Users\Sol\Documents\TP Malacari Zgaib entrega\TP1 Malacari Zgaib\bin\Debug\AutomaticGraphLayout.Drawing.dll
+C:\Users\Sol\Documents\TP Malacari Zgaib entrega\TP1 Malacari Zgaib\bin\Debug\Microsoft.Msagl.GraphViewerGdi.dll
+C:\Users\Sol\Documents\TP Malacari Zgaib entrega\TP1 Malacari Zgaib\bin\Debug\Microsoft.Msagl.WpfGraphControl.dll
+C:\Users\Sol\Documents\TP Malacari Zgaib entrega\TP1 Malacari Zgaib\obj\Debug\TP1 Malacari Zgaib.csprojAssemblyReference.cache
+C:\Users\Sol\Documents\TP Malacari Zgaib entrega\TP1 Malacari Zgaib\obj\Debug\TP1_Malacari_Zgaib.Ejercicio2.resources
+C:\Users\Sol\Documents\TP Malacari Zgaib entrega\TP1 Malacari Zgaib\obj\Debug\TP1_Malacari_Zgaib.Ejercicio3.resources
+C:\Users\Sol\Documents\TP Malacari Zgaib entrega\TP1 Malacari Zgaib\obj\Debug\TP1_Malacari_Zgaib.Ejercicio4.resources
+C:\Users\Sol\Documents\TP Malacari Zgaib entrega\TP1 Malacari Zgaib\obj\Debug\TP1_Malacari_Zgaib.EjercicioUno.resources
+C:\Users\Sol\Documents\TP Malacari Zgaib entrega\TP1 Malacari Zgaib\obj\Debug\TP1_Malacari_Zgaib.FormPrincipal.resources
+C:\Users\Sol\Documents\TP Malacari Zgaib entrega\TP1 Malacari Zgaib\obj\Debug\TP1_Malacari_Zgaib.Properties.Resources.resources
+C:\Users\Sol\Documents\TP Malacari Zgaib entrega\TP1 Malacari Zgaib\obj\Debug\TP1 Malacari Zgaib.csproj.GenerateResource.cache
+C:\Users\Sol\Documents\TP Malacari Zgaib entrega\TP1 Malacari Zgaib\obj\Debug\TP1 Malacari Zgaib.csproj.CoreCompileInputs.cache
+C:\Users\Sol\Documents\TP Malacari Zgaib entrega\TP1 Malacari Zgaib\obj\Debug\TP1 Malacari Zgaib.csproj.CopyComplete
+C:\Users\Sol\Documents\TP Malacari Zgaib entrega\TP1 Malacari Zgaib\obj\Debug\TP1 Malacari Zgaib.exe
+C:\Users\Sol\Documents\TP Malacari Zgaib entrega\TP1 Malacari Zgaib\obj\Debug\TP1 Malacari Zgaib.pdb

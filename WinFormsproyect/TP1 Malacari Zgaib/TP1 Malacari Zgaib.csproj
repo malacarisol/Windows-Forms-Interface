@@ -1,0 +1,248 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{B7A3E92A-F2CD-40E5-B364-230527F73D1B}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>TP1_Malacari_Zgaib</RootNamespace>
+    <AssemblyName>TP1 Malacari Zgaib</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AutomaticGraphLayout, Version=0.0.0.0, Culture=neutral, PublicKeyToken=6baa2c1345e83b6e, processorArchitecture=MSIL">
+      <HintPath>..\packages\AutomaticGraphLayout.1.1.9\lib\netstandard2.0\AutomaticGraphLayout.dll</HintPath>
+    </Reference>
+    <Reference Include="AutomaticGraphLayout.Drawing, Version=0.0.0.0, Culture=neutral, PublicKeyToken=6baa2c1345e83b6e, processorArchitecture=MSIL">
+      <HintPath>..\packages\AutomaticGraphLayout.Drawing.1.1.9\lib\netstandard2.0\AutomaticGraphLayout.Drawing.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Msagl.GraphViewerGdi, Version=0.0.0.0, Culture=neutral, PublicKeyToken=6baa2c1345e83b6e, processorArchitecture=MSIL">
+      <HintPath>..\packages\AutomaticGraphLayout.GraphViewerGDI.1.1.9\lib\net472\Microsoft.Msagl.GraphViewerGdi.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Msagl.WpfGraphControl, Version=1.0.0.0, Culture=neutral, PublicKeyToken=6baa2c1345e83b6e, processorArchitecture=MSIL">
+      <HintPath>..\packages\AutomaticGraphLayout.WpfGraphControl.1.1.9\lib\net472\Microsoft.Msagl.WpfGraphControl.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="cQuesos.cs" />
+    <Compile Include="Ejercicio2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ejercicio2.Designer.cs">
+      <DependentUpon>Ejercicio2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ejercicio3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ejercicio3.Designer.cs">
+      <DependentUpon>Ejercicio3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ejercicio4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ejercicio4.Designer.cs">
+      <DependentUpon>Ejercicio4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EjercicioUno.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EjercicioUno.Designer.cs">
+      <DependentUpon>EjercicioUno.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormPrincipal.Designer.cs">
+      <DependentUpon>FormPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Objeto.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Ejercicio2.resx">
+      <DependentUpon>Ejercicio2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ejercicio3.resx">
+      <DependentUpon>Ejercicio3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ejercicio4.resx">
+      <DependentUpon>Ejercicio4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EjercicioUno.resx">
+      <DependentUpon>EjercicioUno.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormPrincipal.resx">
+      <DependentUpon>FormPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="packages.config" />
+    <None Include="Properties\DataSources\cQuesos.datasource" />
+    <None Include="Properties\DataSources\Objeto.datasource" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Robo Mochila.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\robomoch2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\robomoch3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LogoUF-vertical-alta.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\robomoch31.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\IMG_0140 %282%29.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\robomoch4.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\robomoch5.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\robomoch7.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\robomoch9.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\jarra vacia.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\jarra vacia 2.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rosa.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Webp.net-resizeimage.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Webp.net-resizeimage %281%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Webp.net-resizeimage %282%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Webp.net-resizeimage %283%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Webp.net-resizeimage %284%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rosa2.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rosa3.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\jrra.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\jaarra rosa 1.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\jara rosa modif 1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\jaaara rosa modif 1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\jaaara rosa modif 2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\jaaara rosa modif 3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\jarras.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\j.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\5rUpybX.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dna image.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\boton.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\background_bw_thumb.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\background_w.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Screenshot 2020-11-12 023527.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Screenshot 2020-11-12 0235271.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Screenshot 2020-11-12 023515.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Screenshot 2020-11-12 024832.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
